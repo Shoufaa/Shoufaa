@@ -2,10 +2,6 @@
 
 ### A Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shoufaa&label=Profile views&color=0e75b6&style=flat" alt="Shoufaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shoufaa" alt="Shoufaa" /></a> </p>
-
 - 🌱 I'm currently learning **PHP and Java**
 
 - 👯 I'm looking to collaborate on **Open Source Project**
